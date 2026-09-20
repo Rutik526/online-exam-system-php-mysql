@@ -1,6 +1,6 @@
 # Online Exam System
 
-![Project Thumbnail](thumbnail.png)
+![Project Thumbnail](online_exam_thumbnail.png)
 
 ## 📌 Project Overview
 
